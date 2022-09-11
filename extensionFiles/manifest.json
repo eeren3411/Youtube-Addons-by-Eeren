@@ -1,0 +1,23 @@
+{
+    "name": "Yt++ By Eeren",
+    "description": "Youtube++",
+    "version": "0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "permissions": [
+      "activeTab",
+      "scripting",
+      "storage"
+    ],
+    "icons": {
+        "128": "icon128.png",
+        "64": "icon64.png",
+        "32": "icon32.png",
+        "16": "icon16.png"
+    }
+  }

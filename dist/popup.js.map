@@ -1,0 +1,1 @@
+{"version":3,"file":"popup.js","mappings":";;;;;AAAA","sources":["webpack://youtube-addons/./src/scripts/main.js"],"sourcesContent":["console.log(\"Hello World!\");"],"names":[],"sourceRoot":""}
