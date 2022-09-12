@@ -1,0 +1,16 @@
+.centerDiv{
+    display: flex; 
+    align-items: center;
+}
+
+.centerObject{
+    margin: auto; 
+    margin-left: 0px;
+}
+
+.containerExtras{
+    margin: 0px;
+    min-width: 400px; 
+    max-width: 400px; 
+    overflow-y: hidden
+}
